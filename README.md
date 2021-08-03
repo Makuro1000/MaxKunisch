@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxKunisch
+- 👋 Hi, I’m @Makuro
 - 👀 I’m interested in frontend and app development
 - 🌱 I’m currently learning to write code in 'react'
 
